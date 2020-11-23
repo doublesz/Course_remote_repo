@@ -1,1 +1,1 @@
-# Course_remote_repo
+# Paragon z warzywniaka

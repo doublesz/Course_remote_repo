@@ -1,3 +1,2 @@
-# Paragon z warzywniaka
-Kto jest najlepszym commiterem?
-Szym
+# Kurs GITa
+
